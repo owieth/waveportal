@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Inter-Black';
+  src: local('Inter-Black'), url(./assets/Inter-Black.ttf) format('ttf');
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter-Black';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #1e2022;
+  color: white;
+}
